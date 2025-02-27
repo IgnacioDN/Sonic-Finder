@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Changa-ExtraBold
+font link: https://www.fontsquirrel.com/fonts/changa
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: Marek Polakovic
+icon designer link: /marekpolakovic
+        
+
+fontColor: {"hex":"#FFFFFF"}
+bgColor: {"hex":"#0B2E73"}
+iconColor: {"hex":"#FFFFFF"}
+
+      
